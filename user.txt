@@ -1,5 +1,5 @@
 RedCloud_Loader-Flick-1092719157
-RedCloud_Loader-ruivo-1165925031
-RedCloud_Loader-ruivo-1165925031
-RedCloud_Loader-elixis-110229485
-RedCloud_Loader-elixis-110229485
+RedCloud_Loader-ruivo-1165925031 //ruivo,revendedor
+RedCloud_Loader-ruivo-1165925031 //ruivo,revendedor
+RedCloud_Loader-elixis-110229485 //elixis,90dias
+RedCloud_Loader-elixis-110229485 //elixis,90dias
