@@ -3,5 +3,5 @@ RedCloud_Loader-ruivo-1165925031 //ruivo,revendedor
 RedCloud_Loader-ruivo-1165925031 //ruivo,revendedor
 RedCloud_Loader-h0nda-1430302838 //h0nda,parceiro
 RedCloud_Loader-h0nda-1430302838 //h0nda,parceiro
-RedCloud_Loader-elixisofc-1106445176
-RedCloud_Loader-elixisofc-1106445176
+RedCloud_Loader-elixisatt-1652603076
+RedCloud_Loader-elixisatt-1652603076
